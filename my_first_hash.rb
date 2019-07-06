@@ -51,7 +51,7 @@ the_rock = {
   :name => "Dwayne The Rock Johnson" ,
   :age => 40 ,
   :weight => "a lot"
-  
+  binding.pry
 }
 
 the_rock
