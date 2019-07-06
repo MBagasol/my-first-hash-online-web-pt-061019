@@ -1,4 +1,4 @@
-def my_hash
+=begin def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
   the_hash = {"Car" => "Ford F350"}
   
@@ -42,7 +42,8 @@ def adding
 
   # return the shipping_manifest hash below
   shipping_manifest
-end
+end 
+=end
 
 
 array = [1, 2, 3, 4]
