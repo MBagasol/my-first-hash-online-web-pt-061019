@@ -43,3 +43,48 @@ def adding
   # return the shipping_manifest hash below
   shipping_manifest
 end
+
+
+array = [1, 2, 3, 4]
+
+hash = {
+  array => 1 , 
+  arr => 3,
+  ar => 4
+  
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
